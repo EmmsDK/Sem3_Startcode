@@ -12,7 +12,11 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+<<<<<<< Updated upstream
       <module name="rest_start_code" options="-endorseddirs $PROJECT_DIR$/target/endorsed" />
+=======
+      <module name="rest_start_code" options="-endorseddirs C:\Users\Johan\Documents\GitHub\Sem3_Startcode\target/endorsed" />
+>>>>>>> Stashed changes
     </option>
   </component>
 </project>
