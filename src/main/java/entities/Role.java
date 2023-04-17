@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  *
- * @author Plaul
+ * @author Plaul 
  */
 @Entity
 @Table(name = "roles")
