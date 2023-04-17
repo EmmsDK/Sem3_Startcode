@@ -1,6 +1,6 @@
 package entities;
 
-import org.mindrot.jbcrypt.BCrypt;
+
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
@@ -8,7 +8,7 @@ import javax.validation.constraints.Size;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
-
+import org.mindrot.jbcrypt.BCrypt;
 @Entity
 @Table(name = "users")
 public class User implements Serializable {
