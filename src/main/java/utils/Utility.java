@@ -5,7 +5,6 @@
  */
 package utils;
 
-import dtos.RenameMeDTO;
 import java.util.Properties;
 import java.util.Set;
 import com.google.gson.*;
