@@ -15,6 +15,7 @@
           <element id="module-output" name="rest_start_code" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.mindrot:jbcrypt:0.4" />
           <element id="library" level="project" name="Maven: org.eclipse.persistence:org.eclipse.persistence.jpa:2.7.7" />
           <element id="library" level="project" name="Maven: org.eclipse.persistence:jakarta.persistence:2.2.3" />
           <element id="library" level="project" name="Maven: org.eclipse.persistence:org.eclipse.persistence.asm:2.7.7" />
